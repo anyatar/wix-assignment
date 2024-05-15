@@ -1,0 +1,14 @@
+{
+    "name": "vim-assignment",
+    "version": "1.0.0",
+    "description": "Build My Mocha Test Library",
+    "main": "index.js",
+    "scripts": {
+      "test": "node .\testCases.js"
+    },
+    "keywords": [],
+    "author": "Anya Suraski",
+    "license": "MIT",
+    "devDependencies": {
+    }
+  }
